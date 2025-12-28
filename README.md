@@ -1,5 +1,7 @@
 # Codeforces Problem Statement Copier
 
+[![Install Script](https://img.shields.io/badge/Install-Userscript-brightgreen?style=for-the-badge&logo=tampermonkey)](https://github.com/cthboss001/codeforces-problem-copier/raw/main/codeforces-problem-copier.user.js)
+
 A Tampermonkey userscript that adds a convenient copy button to Codeforces problem pages, allowing you to copy the entire problem statement with a single click.
 
 ## Features
